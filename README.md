@@ -1,6 +1,6 @@
-#Cooking Roll Playing Game
+The Cooking RPG
 
-#Project Description
+Project Description
 RPG where you as a player steps into a master kitchen as a chef. There you will fight not only great master chefs like Massimo Bottura and Anthony Bourdain but also
 angry guests whom are not too satisfied. 
 
